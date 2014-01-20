@@ -15,7 +15,7 @@
 		"php": ">=5.0.0"
 	},
 	"autoload": {
-		"classmap": ["class.simplerevcryptphp"]
+		"classmap": ["class.simplerevcrypt.php"]
 	},
 	"license": "MIT"
 }
