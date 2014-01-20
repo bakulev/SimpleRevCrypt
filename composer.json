@@ -1,0 +1,21 @@
+{
+	"name": "anba/simplerevcrypt",
+	"type": "library",
+	"description": "Simple reverse cryptograpy algoritm in PHP",
+	"keywords": ["encryption", "cryptograpy"],
+	"authors": [
+		{
+			"name": "Vladimir Kim",
+			"email": "vladimirkim@livejournal.com"
+			"homepage": "http://vladimirkim.livejournal.com/674.html",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.0.0"
+	},
+	"autoload": {
+		"classmap": ["class.simplerevcryptphp"]
+	},
+	"license": "MIT"
+}
